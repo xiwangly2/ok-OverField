@@ -34,7 +34,7 @@ base_dir = "src"
 extensions = find_pyx_packages(base_dir)
 
 setuptools.setup(
-    name="ok-ww",
+    name="ok-OverField",
     version="0.0.1",
     author="ok-oldking",
     author_email="firedcto@gmail.com",

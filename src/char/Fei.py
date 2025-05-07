@@ -1,5 +1,5 @@
 from src.char.BaseChar import BaseChar
 
 
-class Zhezhi(BaseChar):
+class Fei(BaseChar):
     pass
