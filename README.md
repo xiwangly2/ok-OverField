@@ -1,3 +1,5 @@
+
+
 # ok-OverField
 ## 开放空间 后台自动战斗 自动刷宝箱 一键日常 Automation for OverField
 
@@ -10,3 +12,5 @@ TODO: 先挖个坑吧，懒，自己也只会点皮毛，有没有大佬能接�
 https://github.com/ok-oldking/ok-wuthering-waves
 
 https://github.com/babalae/better-genshin-impact
+
+常见问题：[常见问题](readme/faq.md)
